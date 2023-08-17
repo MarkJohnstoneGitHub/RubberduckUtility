@@ -13,7 +13,7 @@ Attribute VB_Description = "Rubberduck utility to export all components accordin
 '@PredeclaredId
 
 '@Author Mark Johnstone
-'@Project https://github.com/MarkJohnstoneGitHub/VBA-DotNetLib
+'@Project https://github.com/MarkJohnstoneGitHub/RubberduckUtility
 '@Version v1.0 August 18, 2023
 '@LastModified August 18, 2023
 
