@@ -3,4 +3,4 @@
 
 Required references: VBIDE (Microsoft Visual Basic for Applications Extensibility 5.3)
 
-Usage: eg. RubberduckUtility.ExportAllComponents "C:\VBA\Output\"
+Usage: eg. ```RubberduckUtility.ExportAllComponents "C:\VBA\Output\"```
