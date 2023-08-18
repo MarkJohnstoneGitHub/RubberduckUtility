@@ -16,5 +16,5 @@ Rubberduck @Folder annotations that contain invalid folder characters.
   - Components containing @Folder annotations with invalid characters for folders are exported to the working directory.
   - eg. ``` '@Folder "<Rubberduck Utilities>" ```
   - A warning message is displayed in the immediate window.
-  - Invalid rubberduck folder annotation, <Rubberduck Utilities> RubberDuckExport.bas exported to working directory C:\VBA\Output\
+  - Invalid rubberduck folder annotation, <Rubberduck Utilities> RubberduckExport.bas exported to working directory C:\VBA\Output\
 
