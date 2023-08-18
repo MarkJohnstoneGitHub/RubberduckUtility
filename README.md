@@ -5,8 +5,7 @@ Required references: VBIDE (Microsoft Visual Basic for Applications Extensibilit
 
 Usage: eg. ```RubberduckUtility.ExportAllComponents "C:\VBA\Output\ "```
 
-ExportAllComponents exports all components for the active project to file according to Rubberduck @Folder annotation. Sub folders are created according to the folder annotation and ***existing files are overwritten***.
-
+ExportAllComponents exports all components to the working directory provided for the active project, according to Rubberduck @Folder annotation. Sub folders are created according to the folder annotation and ***existing files are overwritten***.
 
 Added error handling for: 
 
