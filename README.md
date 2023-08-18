@@ -13,7 +13,7 @@ Invalid working directory.
   - Error is raised.  The working directory must already exist.
 
 Rubberduck @Folder annotations that contain invalid folder characters.  
-  - Components containing  invalid folder annotations are exported to the working directory.
+  - Components containing @Folder annotations with invalid characters for folders are exported to the working directory.
   - eg. ``` '@Folder "<Rubberduck Utilities>" ```
   - A warning message is displayed in the immediate window.
   - Invalid rubberduck folder annotation, <Rubberduck Utilities> RubberDuckExport.bas exported to working directory C:\VBA\Output\
