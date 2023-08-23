@@ -18,7 +18,7 @@ Attribute VB_Description = "Represents a list of errors that occur during applic
 '@LastModified August 24, 2023
 
 '@Dependenicies
-'   ExceptionSeverity.bas
+'   ExceptionSeverityEnum.bas
 '   Exception.cls
 '   IException.cls
 

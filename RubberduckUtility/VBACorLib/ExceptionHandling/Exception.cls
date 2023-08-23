@@ -19,7 +19,7 @@ Attribute VB_Description = "Represents errors that occur during application exec
 
 '@Dependenicies
 '   IException.cls
-'   ExceptionSeverity.bas
+'   ExceptionSeverityEnum.bas
 
 Option Explicit
 

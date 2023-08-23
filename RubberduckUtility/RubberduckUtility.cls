@@ -20,7 +20,7 @@ Attribute VB_Description = "Rubberduck utility to export all components accordin
 '@ReferenceAddin VBIDE (Microsoft Visual Basic for Applications Extensibility 5.3)
 
 '@Dependenicies
-'   ExceptionSeverity.bas
+'   ExceptionSeverityEnum.bas
 '   Exception.cls
 '   IException.cls
 '   Exceptions.cls
