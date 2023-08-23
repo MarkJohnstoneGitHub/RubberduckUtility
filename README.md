@@ -29,7 +29,7 @@ Public Sub RubberduckExportProject()
 End Sub
  ```
 
-**Output Example**
+**Output Example to immediate window**
  ```
 Warning invalid Rubberduck folder characters, <Rubberduck Utilities> RubberduckUtility.cls exported to C:\VBA\Output
 Warning invalid Rubberduck folder characters, <Rubberduck Utilities> RubberDuckExport.bas exported to C:\VBA\Output
