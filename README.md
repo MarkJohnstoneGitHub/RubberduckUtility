@@ -11,6 +11,9 @@
   - Exceptions.cls
 
 **Usage**
+
+May also enter in the immediate window and run the eg. RubberduckUtility.ExportAll "C:\VBA\Output"
+
  ```
 Public Sub RubberduckExportProject()
     RubberduckUtility.ExportAll "C:\VBA\Output"
