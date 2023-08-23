@@ -9,8 +9,8 @@ Attribute VB_Description = "Rubberduck utility to export all components in the a
 '@LastModified August 24, 2023
 
 '@Dependenicies
-'   RubberduckUtility.bas
-'   ExceptionType.bas
+'   RubberduckUtility.cls
+'   ExceptionSeverity.bas
 '   Exception.cls
 '   IException.cls
 '   Exceptions.cls
