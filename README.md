@@ -4,13 +4,16 @@
 **Required references: VBIDE (Microsoft Visual Basic for Applications Extensibility 5.3)**
 
 **Dependenicies**
-  - RubberduckUtility.cls
-  - ExceptionSeverity.bas
-  - Exception.cls
-  - IException.cls
-  - Exceptions.cls
+  - [RubberduckUtility.cls](https://github.com/MarkJohnstoneGitHub/RubberduckUtility/blob/main/RubberduckUtility/RubberduckUtility.cls)
+  - [ExceptionSeverityEnum.bas](https://github.com/MarkJohnstoneGitHub/RubberduckUtility/blob/main/RubberduckUtility/VBACorLib/ExceptionHandling/ExceptionSeverityEnum.bas)
+  - [Exception.cls](https://github.com/MarkJohnstoneGitHub/RubberduckUtility/blob/main/RubberduckUtility/VBACorLib/ExceptionHandling/Exception.cls)
+  - [IException.cls](https://github.com/MarkJohnstoneGitHub/RubberduckUtility/blob/main/RubberduckUtility/VBACorLib/ExceptionHandling/IException.cls)
+  - [Exceptions.cls](https://github.com/MarkJohnstoneGitHub/RubberduckUtility/blob/main/RubberduckUtility/VBACorLib/ExceptionHandling/Exceptions.cls)
 
 **Usage**
+
+May also enter in the immediate window and run the eg. RubberduckUtility.ExportAll "C:\VBA\Output"
+
  ```
 Public Sub RubberduckExportProject()
     RubberduckUtility.ExportAll "C:\VBA\Output"
