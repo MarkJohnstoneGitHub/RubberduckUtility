@@ -3,7 +3,7 @@
 **Version 2.0 August 24,  2023**
 Added error logging.
 
-[Rubberduck](https://rubberduckvba.com/) utility to export all components in the active project according to Rubberduck [@Folder annotation](https://github.com/rubberduck-vba/Rubberduck/wiki/Using-@Folder-Annotations). 
+[Rubberduck](https://rubberduckvba.com/) utility to export all components in the active project according to the Rubberduck [@Folder annotation](https://github.com/rubberduck-vba/Rubberduck/wiki/Using-@Folder-Annotations). 
 
 **Required references: VBIDE (Microsoft Visual Basic for Applications Extensibility 5.3)**
 
