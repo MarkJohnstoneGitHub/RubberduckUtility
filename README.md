@@ -1,4 +1,4 @@
-# Rubberduck Utility
+# Rubberduck Export All Utility
 
 **Version 2.0 August 24,  2023**
 Added error logging.
